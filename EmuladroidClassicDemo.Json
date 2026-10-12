@@ -4,5 +4,5 @@
     "title": "Nueva actualización disponible",
     "message": "Emulador Classic tiene una nueva actualización con mejoras de rendimiento, correcciones y nuevas funciones.",
     "apkUrl": "https://TU_SERVIDOR_REAL.com/EmuladorClassic.apk",
-    "mandatory": true
+    "mandatory": false
 }
