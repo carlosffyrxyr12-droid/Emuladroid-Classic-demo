@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Bienvenido a Emuladroid classic Demo",
+    "message": "Te damos La Bienvenida a Nuestro Emulador de juegos Classicos Espero disfrutes de nuestra Version Demo y juegues Tus Juegos Favoritos😊.",
+    "date": "2026-07-09",
+    "type": "info",
+    "read": true
+  },
+  {
+    "id": "2",
+    "title": "Novedad",
+    "message": "Ya puedes usar 5 temas visuales.",
+    "date": "2026-07-09",
+    "type": "news",
+    "read": true
+  },
+  {
+    "id": "3",
+    "title": "Espero Tengas una excelente dia/Noche",
+    "message": "Estamos Mejorando Nuestra App Cada Dia, Espero lo estes disfrutando😀 Haremos lo posible para agregar mas y nuevas mejoras☺️💓.",
+    "date": "2026-07-09",
+    "type": "news",
+    "read": true
+},
+  {
+    "id": "4",
+    "title": "Welcome to the new version 1.14! Here's what's new. ",
+    "message": "We added 3 types of visual themes, an AMOLED mode, and a new web icon for our official website. ",
+    "date": "2026-08-09",
+    "type": "news",
+    "read": false
+},
+  {
+    "id": "5",
+    "title": "¡Bienvenidos a la nueva versión 1.14! Estas son las novedades. ",
+    "message": "Hemos añadido 3 tipos de temas visuales, un modo AMOLED y un nuevo icono web para nuestra página web oficial. ",
+    "date": "2026-08-09",
+    "type": "news",
+    "read": false
+  }
+]
